@@ -1,0 +1,428 @@
+[27-Jun-2018 18:44:27 asia/kolkata] PHP Fatal error:  Call to a member function GetResFeedbackData() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Resapi/PostResFeedback.php on line 38
+[27-Jun-2018 18:49:34 asia/kolkata] PHP Fatal error:  Call to a member function GetResFeedbackListData() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Resapi/ResFeedbackListing.php on line 35
+[03-Jul-2018 18:29:50 asia/kolkata] PHP Fatal error:  Cannot redeclare Resapi_model::getRestaurantItems_data() in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 270
+[03-Jul-2018 18:30:48 asia/kolkata] PHP Fatal error:  Cannot redeclare Resapi_model::getRestaurantItems_data() in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 270
+[05-Jul-2018 16:32:18 asia/kolkata] PHP Fatal error:  Call to a member function GetResFeedbackData() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Resapi/PostResFeedback.php on line 38
+[05-Jul-2018 16:33:45 asia/kolkata] PHP Fatal error:  Call to a member function GetResFeedbackData() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Resapi/PostResFeedback.php on line 38
+[10-Jul-2018 12:21:27 asia/kolkata] PHP Fatal error:  Call to undefined method Api_model::GetResFeedbackListbyresid() in /home/newnuknew/public_html/dialio/application/controllers/Resapi/ResFeedback_view.php on line 31
+[10-Jul-2018 12:23:29 asia/kolkata] PHP Fatal error:  Call to undefined method Api_model::GetResFeedbackListbyresid() in /home/newnuknew/public_html/dialio/application/controllers/Resapi/ResFeedback_view.php on line 31
+[10-Jul-2018 12:25:22 asia/kolkata] PHP Fatal error:  Call to a member function GetResFeedbackListbyresid() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Resapi/ResFeedback_view.php on line 31
+[11-Jul-2018 11:38:50 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 111
+[11-Jul-2018 11:44:47 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 147
+[11-Jul-2018 11:45:22 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 214
+[11-Jul-2018 11:46:01 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 214
+[11-Jul-2018 11:46:24 asia/kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 1701
+[11-Jul-2018 11:48:23 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 111
+[12-Jul-2018 12:20:28 asia/kolkata] PHP Fatal error:  Call to a member function getListby_id() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Spa.php on line 112
+[13-Jul-2018 18:17:21 asia/kolkata] PHP Parse error:  syntax error, unexpected '$experiencevalue' (T_VARIABLE), expecting ')' in /home/newnuknew/public_html/dialio/application/models/Api_model.php on line 363
+[14-Jul-2018 16:59:15 asia/kolkata] PHP Parse error:  syntax error, unexpected '=' in /home/newnuknew/public_html/dialio/application/models/Api_model.php on line 552
+[14-Jul-2018 17:00:15 asia/kolkata] PHP Parse error:  syntax error, unexpected 'Gold' (T_STRING) in /home/newnuknew/public_html/dialio/application/models/Api_model.php on line 552
+[14-Jul-2018 17:00:35 asia/kolkata] PHP Parse error:  syntax error, unexpected 'Gold' (T_STRING) in /home/newnuknew/public_html/dialio/application/models/Api_model.php on line 552
+[14-Jul-2018 17:01:06 asia/kolkata] PHP Parse error:  syntax error, unexpected 'Gold' (T_STRING) in /home/newnuknew/public_html/dialio/application/models/Api_model.php on line 552
+[14-Jul-2018 17:02:05 asia/kolkata] PHP Parse error:  syntax error, unexpected 'Gold' (T_STRING) in /home/newnuknew/public_html/dialio/application/models/Api_model.php on line 552
+[16-Jul-2018 10:59:19 asia/kolkata] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting function (T_FUNCTION) in /home/newnuknew/public_html/dialio/application/models/Api_model.php on line 437
+[18-Jul-2018 15:34:58 asia/kolkata] PHP Parse error:  syntax error, unexpected '=' in /home/newnuknew/public_html/dialio/application/models/Spaapi_model.php on line 140
+[18-Jul-2018 15:41:14 asia/kolkata] PHP Fatal error:  Call to undefined method Spaapi_model::distance() in /home/newnuknew/public_html/dialio/application/models/Spaapi_model.php on line 113
+[19-Jul-2018 13:44:37 asia/kolkata] PHP Parse error:  syntax error, unexpected ''1'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/newnuknew/public_html/dialio/application/controllers/Resapi/GetRestaurantlist.php on line 25
+[19-Jul-2018 15:34:06 asia/kolkata] PHP Parse error:  syntax error, unexpected '$dist' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 38
+[19-Jul-2018 15:34:07 asia/kolkata] PHP Parse error:  syntax error, unexpected '$dist' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 38
+[24-Jul-2018 11:46:34 asia/kolkata] PHP Parse error:  syntax error, unexpected '*' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 120
+[24-Jul-2018 16:59:45 asia/kolkata] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/newnuknew/public_html/dialio/application/controllers/Doctor.php on line 230
+[25-Jul-2018 16:24:41 asia/kolkata] PHP Fatal error:  Call to undefined method Doctorapi_model::distance1() in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 73
+[25-Jul-2018 18:07:42 asia/kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 179
+[25-Jul-2018 18:29:43 asia/kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 179
+[26-Jul-2018 12:57:26 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 305
+[26-Jul-2018 15:23:18 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 804
+[26-Jul-2018 15:23:25 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 804
+[26-Jul-2018 15:23:35 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 804
+[26-Jul-2018 18:01:46 asia/kolkata] PHP Fatal error:  Call to undefined method Doctormodel::deleteSponsor() in /home/newnuknew/public_html/dialio/application/controllers/Doctor.php on line 83
+[26-Jul-2018 18:01:59 asia/kolkata] PHP Fatal error:  Call to undefined method Doctormodel::deleteSponsor() in /home/newnuknew/public_html/dialio/application/controllers/Doctor.php on line 83
+[27-Jul-2018 14:56:45 asia/kolkata] PHP Parse error:  syntax error, unexpected '$postGlobalData2' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/controllers/Doctor.php on line 419
+[27-Jul-2018 15:05:28 asia/kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/newnuknew/public_html/dialio/application/models/Doctormodel.php on line 126
+[27-Jul-2018 15:27:55 asia/kolkata] PHP Fatal error:  Cannot redeclare Restaurantmodel::UpdateProductsData() in /home/newnuknew/public_html/dialio/application/models/Restaurantmodel.php on line 407
+[27-Jul-2018 16:24:03 asia/kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_result() in /home/newnuknew/public_html/dialio/application/models/Restaurantmodel.php on line 59
+[27-Jul-2018 16:48:50 asia/kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_result() in /home/newnuknew/public_html/dialio/application/models/Restaurantmodel.php on line 59
+[27-Jul-2018 16:52:14 asia/kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::row_result() in /home/newnuknew/public_html/dialio/application/models/Restaurantmodel.php on line 59
+[27-Jul-2018 17:29:01 asia/kolkata] PHP Fatal error:  Call to a member function checkGlobal() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Saloan.php on line 322
+[27-Jul-2018 17:29:49 asia/kolkata] PHP Fatal error:  Call to a member function checkGlobal() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Saloan.php on line 322
+[28-Jul-2018 11:31:45 asia/kolkata] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Globalapi_model.php on line 17
+[28-Jul-2018 13:11:09 asia/kolkata] PHP Parse error:  syntax error, unexpected '"' ORDER BY cate_id"' (T_CONSTANT_ENCAPSED_STRING) in /home/newnuknew/public_html/dialio/application/models/Globalapi_model.php on line 17
+[02-Aug-2018 13:15:03 asia/kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/newnuknew/public_html/dialio/application/views/Admin/Layout/sidebar.php on line 285
+[02-Aug-2018 15:43:43 asia/kolkata] PHP Fatal error:  Cannot redeclare SendOtpSMS() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:176) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 383
+[02-Aug-2018 15:43:56 asia/kolkata] PHP Fatal error:  Cannot redeclare SendOtpSMS() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:176) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 383
+[02-Aug-2018 15:52:41 asia/kolkata] PHP Fatal error:  Cannot redeclare SendOtpSMS() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:176) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 383
+[02-Aug-2018 15:52:42 asia/kolkata] PHP Fatal error:  Cannot redeclare SendOtpSMS() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:176) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 383
+[02-Aug-2018 15:52:42 asia/kolkata] PHP Fatal error:  Cannot redeclare SendOtpSMS() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:176) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 383
+[02-Aug-2018 15:52:42 asia/kolkata] PHP Fatal error:  Cannot redeclare SendOtpSMS() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:176) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 383
+[02-Aug-2018 15:52:42 asia/kolkata] PHP Fatal error:  Cannot redeclare SendOtpSMS() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:176) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 383
+[02-Aug-2018 16:01:16 asia/kolkata] PHP Fatal error:  Cannot redeclare SendOtpSMS() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:176) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 383
+[02-Aug-2018 16:08:37 asia/kolkata] PHP Parse error:  syntax error, unexpected 'have' (T_STRING) in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php on line 185
+[11-Aug-2018 13:00:00 asia/kolkata] PHP Fatal error:  Call to undefined method Saloansmodel::Get_SaloncheduleData() in /home/newnuknew/public_html/dialio/application/controllers/Saloan.php on line 213
+[11-Aug-2018 13:04:52 asia/kolkata] PHP Fatal error:  Call to undefined method Saloansmodel::Get_SaloncheduleData() in /home/newnuknew/public_html/dialio/application/controllers/Saloan.php on line 213
+[11-Aug-2018 13:04:54 asia/kolkata] PHP Fatal error:  Call to undefined method Saloansmodel::Get_SaloncheduleData() in /home/newnuknew/public_html/dialio/application/controllers/Saloan.php on line 213
+[11-Aug-2018 15:35:36 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting identifier (T_STRING) in /home/newnuknew/public_html/dialio/application/controllers/Spa.php on line 53
+[11-Aug-2018 15:49:01 asia/kolkata] PHP Fatal error:  Call to undefined method Spamodel::Get_SpaRescheduleData() in /home/newnuknew/public_html/dialio/application/controllers/Spa.php on line 118
+[13-Aug-2018 12:35:01 asia/kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/newnuknew/public_html/dialio/application/models/PushNotification_model.php on line 15
+[13-Aug-2018 15:22:38 asia/kolkata] PHP Parse error:  syntax error, unexpected '$day' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 229
+[13-Aug-2018 15:22:49 asia/kolkata] PHP Parse error:  syntax error, unexpected '$day' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 229
+[13-Aug-2018 15:22:58 asia/kolkata] PHP Parse error:  syntax error, unexpected '$day' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 229
+[13-Aug-2018 15:23:22 asia/kolkata] PHP Parse error:  syntax error, unexpected '$day' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 229
+[13-Aug-2018 15:23:45 asia/kolkata] PHP Parse error:  syntax error, unexpected '$day' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 229
+[16-Aug-2018 12:08:51 asia/kolkata] PHP Fatal error:  Call to a member function getAreas() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Spa.php on line 228
+[17-Aug-2018 14:39:51 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/views/Admin/Doc_AddDoctor.php on line 515
+[17-Aug-2018 14:43:57 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/views/Admin/Doc_AddDoctor.php on line 515
+[17-Aug-2018 14:44:08 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/views/Admin/Doc_AddDoctor.php on line 515
+[17-Aug-2018 14:47:46 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/views/Admin/Doc_AddDoctor.php on line 501
+[17-Aug-2018 14:47:53 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/views/Admin/Doc_AddDoctor.php on line 501
+[17-Aug-2018 17:07:40 asia/kolkata] PHP Parse error:  syntax error, unexpected 'foreach' (T_FOREACH) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1222
+[17-Aug-2018 17:22:06 asia/kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1222
+[17-Aug-2018 17:22:48 asia/kolkata] PHP Fatal error:  Call to a member function format() on a non-object in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1223
+[17-Aug-2018 17:45:43 asia/kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1221
+[17-Aug-2018 17:46:14 asia/kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1221
+[17-Aug-2018 17:51:28 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1221
+[17-Aug-2018 18:00:15 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1245
+[17-Aug-2018 18:00:21 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1245
+[17-Aug-2018 18:00:28 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1245
+[17-Aug-2018 18:03:23 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1225
+[17-Aug-2018 18:05:57 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:05:57 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:05:58 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:01 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:02 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:09 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:09 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:10 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:14 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:15 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:15 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[17-Aug-2018 18:06:15 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1224
+[18-Aug-2018 11:35:06 asia/kolkata] PHP Parse error:  syntax error, unexpected '}', expecting '(' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1240
+[18-Aug-2018 11:55:08 asia/kolkata] PHP Parse error:  syntax error, unexpected ']' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1241
+[18-Aug-2018 12:17:25 asia/kolkata] PHP Fatal error:  Cannot use [] for reading in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1261
+[18-Aug-2018 12:17:40 asia/kolkata] PHP Fatal error:  Cannot use [] for reading in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1260
+[18-Aug-2018 12:58:10 asia/kolkata] PHP Fatal error:  Cannot use [] for reading in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1268
+[20-Aug-2018 11:41:02 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1158
+[20-Aug-2018 13:00:58 asia/kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1281
+[20-Aug-2018 13:24:06 asia/kolkata] PHP Fatal error:  Call to undefined function 2018-8-20() in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1280
+[20-Aug-2018 13:44:17 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:46:36 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:46:41 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:47:08 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:47:16 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:50:21 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:56:14 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:56:16 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:56:29 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:57:08 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:57:14 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 13:57:16 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1283
+[20-Aug-2018 18:07:38 asia/kolkata] PHP Fatal error:  Call to undefined method CI_DB_mysqli_result::array_result() in /home/newnuknew/public_html/dialio/application/models/UserModel.php on line 46
+[21-Aug-2018 16:20:11 asia/kolkata] PHP Fatal error:  Call to undefined method Saloanapi_model::getSalon_data() in /home/newnuknew/public_html/dialio/application/controllers/Saloanapi/GetSalonList.php on line 30
+[21-Aug-2018 18:13:38 asia/kolkata] PHP Parse error:  syntax error, unexpected '$array' (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 611
+[21-Aug-2018 18:14:04 asia/kolkata] PHP Fatal error:  Call to undefined function parseInt() in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 607
+[22-Aug-2018 17:31:35 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 977
+[24-Aug-2018 10:33:44 asia/kolkata] PHP Parse error:  syntax error, unexpected ''E'' (T_CONSTANT_ENCAPSED_STRING) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1429
+[28-Aug-2018 17:58:31 asia/kolkata] PHP Fatal error:  Call to undefined function printr_r() in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1143
+[28-Aug-2018 18:56:17 asia/kolkata] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting function (T_FUNCTION) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 354
+[28-Aug-2018 18:56:33 asia/kolkata] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting function (T_FUNCTION) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 354
+[28-Aug-2018 18:58:00 asia/kolkata] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting function (T_FUNCTION) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 354
+[29-Aug-2018 18:09:12 asia/kolkata] PHP Parse error:  syntax error, unexpected ''Success'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 321
+[29-Aug-2018 18:54:18 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/models/UserModel.php on line 103
+[29-Aug-2018 18:58:18 asia/kolkata] PHP Parse error:  syntax error, unexpected '$arr' (T_VARIABLE), expecting function (T_FUNCTION) in /home/newnuknew/public_html/dialio/application/models/UserModel.php on line 112
+[29-Aug-2018 18:58:54 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/newnuknew/public_html/dialio/application/models/UserModel.php on line 123
+[04-Sep-2018 15:04:24 asia/kolkata] PHP Parse error:  syntax error, unexpected '[' in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 159
+[04-Sep-2018 15:04:43 asia/kolkata] PHP Parse error:  syntax error, unexpected '[' in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 159
+[04-Sep-2018 15:05:25 asia/kolkata] PHP Parse error:  syntax error, unexpected '[' in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 159
+[05-Sep-2018 16:37:44 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 520
+[05-Sep-2018 16:39:28 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/newnuknew/public_html/dialio/application/models/Saloanapi_model.php on line 520
+[07-Sep-2018 13:54:30 asia/kolkata] PHP Parse error:  syntax error, unexpected ''current_latitude'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/newnuknew/public_html/dialio/application/controllers/Resapi/GetLocationwise.php on line 26
+[07-Sep-2018 14:58:47 asia/kolkata] PHP Parse error:  syntax error, unexpected ''current_latitude'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/newnuknew/public_html/dialio/application/controllers/Resapi/GetLocationwise.php on line 26
+[07-Sep-2018 15:30:17 asia/kolkata] PHP Parse error:  syntax error, unexpected ''current_latitude'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/newnuknew/public_html/dialio/application/controllers/Resapi/GetLocationwise.php on line 26
+[08-Sep-2018 15:39:43 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:39:44 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:39:47 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:39:47 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:39:51 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:40:09 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:40:12 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:40:13 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:40:15 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:40:20 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:40:20 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:40:23 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:40:30 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:40:31 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 409
+[08-Sep-2018 15:41:36 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 420
+[08-Sep-2018 15:41:43 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 420
+[08-Sep-2018 15:41:53 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 420
+[08-Sep-2018 15:43:42 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 420
+[08-Sep-2018 15:45:13 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 427
+[10-Sep-2018 14:23:43 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1125
+[10-Sep-2018 14:27:33 asia/kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1111
+[10-Sep-2018 14:27:35 asia/kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1111
+[10-Sep-2018 14:27:36 asia/kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1111
+[10-Sep-2018 14:27:41 asia/kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1111
+[10-Sep-2018 14:33:10 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1080
+[10-Sep-2018 14:35:36 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1080
+[10-Sep-2018 14:35:38 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1080
+[10-Sep-2018 14:35:38 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1080
+[10-Sep-2018 14:35:39 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1080
+[10-Sep-2018 14:35:39 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1080
+[10-Sep-2018 14:35:55 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1080
+[10-Sep-2018 14:36:02 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/newnuknew/public_html/dialio/application/views/Admin/Res_AddRestaurant.php on line 1080
+[10-Sep-2018 14:51:07 asia/kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 418
+[10-Sep-2018 14:51:51 asia/kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 418
+[12-Sep-2018 12:43:41 asia/kolkata] PHP Fatal error:  Function name must be a string in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 440
+[12-Sep-2018 13:08:43 asia/kolkata] PHP Fatal error:  Function name must be a string in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 440
+[12-Sep-2018 16:44:06 asia/kolkata] PHP Parse error:  syntax error, unexpected 'funtion' (T_STRING), expecting variable (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1345
+[12-Sep-2018 16:45:30 asia/kolkata] PHP Parse error:  syntax error, unexpected 'funtion' (T_STRING), expecting variable (T_VARIABLE) in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 1345
+[12-Sep-2018 17:32:31 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 75
+[19-Sep-2018 17:53:11 asia/kolkata] PHP Fatal error:  Cannot redeclare generate_unique_code() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:204) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 64
+[19-Sep-2018 17:53:11 asia/kolkata] PHP Fatal error:  Cannot redeclare generate_unique_code() (previously declared in /home/newnuknew/public_html/dialio/application/helpers/message_helper.php:204) in /home/newnuknew/public_html/dialio/application/helpers/api_helper.php on line 64
+[20-Sep-2018 10:15:40 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::hoursRange() in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 182
+[20-Sep-2018 10:18:07 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::hoursRange() in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 182
+[20-Sep-2018 10:19:45 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::minutes() in /home/newnuknew/public_html/dialio/application/models/Resapi_model.php on line 182
+[20-Sep-2018 11:21:29 asia/kolkata] PHP Parse error:  syntax error, unexpected '{' in /home/newnuknew/public_html/dialio/application/controllers/Web.php on line 168
+[20-Sep-2018 18:09:36 asia/kolkata] PHP Fatal error:  Call to a member function getCategoryList() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Web_doctor.php on line 22
+[21-Sep-2018 12:59:46 asia/kolkata] PHP Fatal error:  Call to a member function getdoctorfb() on a non-object in /home/newnuknew/public_html/dialio/application/controllers/Web_doctor.php on line 32
+[21-Sep-2018 14:45:01 asia/kolkata] PHP Fatal error:  Call to undefined method Web_Model::updatefavourite() in /home/newnuknew/public_html/dialio/application/controllers/Web_doctor.php on line 54
+[21-Sep-2018 14:45:04 asia/kolkata] PHP Fatal error:  Call to undefined method Web_Model::updatefavourite() in /home/newnuknew/public_html/dialio/application/controllers/Web_doctor.php on line 54
+[21-Sep-2018 14:45:05 asia/kolkata] PHP Fatal error:  Call to undefined method Web_Model::updatefavourite() in /home/newnuknew/public_html/dialio/application/controllers/Web_doctor.php on line 54
+[21-Sep-2018 14:45:20 asia/kolkata] PHP Fatal error:  Call to undefined method Web_Model::updatefavourite() in /home/newnuknew/public_html/dialio/application/controllers/Web_doctor.php on line 54
+[21-Sep-2018 15:40:35 asia/kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/newnuknew/public_html/dialio/application/views/web/clinic_viewinfo.php on line 112
+[21-Sep-2018 17:28:23 asia/kolkata] PHP Fatal error:  Non-abstract method WebDoctor_Model::updatefavourite() must contain body in /home/newnuknew/public_html/dialio/application/models/WebDoctor_Model.php on line 42
+[22-Sep-2018 10:50:33 asia/kolkata] PHP Parse error:  syntax error, unexpected 'favourite_master' (T_STRING) in /home/newnuknew/public_html/dialio/application/models/Favouriteapi_model.php on line 45
+[24-Sep-2018 13:12:20 asia/kolkata] PHP Fatal error:  Function name must be a string in /home/newnuknew/public_html/dialio/application/models/Doctorapi_model.php on line 400
+[24-Sep-2018 14:15:09 asia/kolkata] PHP Fatal error:  Call to undefined method Web_doctor::hoursRange() in /home/newnuknew/public_html/dialio/application/controllers/Web_doctor.php on line 193
+[24-Sep-2018 14:16:34 asia/kolkata] PHP Fatal error:  Call to undefined method Web_doctor::minutes() in /home/newnuknew/public_html/dialio/application/controllers/Web_doctor.php on line 193
+[24-Sep-2018 16:34:51 asia/kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /home/newnuknew/public_html/dialio/application/views/web/slot_timing.php on line 2
+[25-Sep-2018 15:54:19 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:19 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:23 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:24 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:30 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:31 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:35 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:36 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:37 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:41 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:42 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:54:49 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:55:51 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:56:09 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:57:18 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[25-Sep-2018 15:57:27 asia/kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 2147483656 bytes) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2268
+[10-Oct-2018 11:11:01 asia/kolkata] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/ofnse8xzlky9/public_html/develop/application/models/Favouriteapi_model.php on line 129
+[10-Oct-2018 12:33:01 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 12:33:10 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 12:35:30 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 12:38:41 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 12:40:24 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 12:41:18 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 12:54:49 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 13:00:24 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 13:01:03 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 13:01:08 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 13:01:10 asia/kolkata] PHP Fatal error:  Call to undefined method Resapi_model::getResSponsor_data() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Resapi/GetResSponsorsData.php on line 31
+[10-Oct-2018 16:44:59 asia/kolkata] PHP Parse error:  syntax error, unexpected '?' in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_viewres.php on line 274
+[11-Oct-2018 13:12:48 asia/kolkata] PHP Fatal error:  Cannot redeclare Web_Res::newbooking() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web_Res.php on line 244
+[11-Oct-2018 14:47:48 asia/kolkata] PHP Parse error:  syntax error, unexpected '%' in /home/ofnse8xzlky9/public_html/develop/application/models/WebRes_model.php on line 341
+[11-Oct-2018 17:03:50 asia/kolkata] PHP Fatal error:  Cannot redeclare Web_Res::updatefavorites() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web_Res.php on line 267
+[15-Oct-2018 15:51:04 Asia/Kolkata] PHP Fatal error:  Call to undefined method WebRes_model::getRestaurantItemsimages() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web_Res.php on line 83
+[15-Oct-2018 16:58:24 asia/kolkata] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 1836
+[15-Oct-2018 16:59:23 asia/kolkata] PHP Parse error:  syntax error, unexpected '==' (T_IS_EQUAL), expecting variable (T_VARIABLE) or '$' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 1836
+[16-Oct-2018 10:34:16 asia/kolkata] PHP Parse error:  syntax error, unexpected 'PostAnonymous' (T_STRING), expecting variable (T_VARIABLE) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 48
+[17-Oct-2018 13:14:51 asia/kolkata] PHP Parse error:  syntax error, unexpected ')' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 1738
+[24-Oct-2018 13:38:10 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:38:18 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:38:33 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:42:22 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:45:47 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:45:48 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:50:56 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:52:00 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:53:10 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:54:59 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 13:57:05 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 106
+[24-Oct-2018 16:37:13 Asia/Kolkata] PHP Fatal error:  Call to undefined function getTimeDiff() in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_viewres.php on line 232
+[24-Oct-2018 16:37:16 Asia/Kolkata] PHP Fatal error:  Call to undefined function getTimeDiff() in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_viewres.php on line 232
+[24-Oct-2018 16:37:53 Asia/Kolkata] PHP Fatal error:  Call to undefined function getTimeDiff() in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_viewres.php on line 232
+[25-Oct-2018 17:06:19 asia/kolkata] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 703
+[26-Oct-2018 10:49:13 asia/kolkata] PHP Parse error:  syntax error, unexpected 's' (T_STRING), expecting function (T_FUNCTION) in /home/ofnse8xzlky9/public_html/develop/application/controllers/VendorBookingAPI/ChangeBookingStatus.php on line 39
+[26-Oct-2018 12:23:43 asia/kolkata] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 779
+[26-Oct-2018 12:24:11 asia/kolkata] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 779
+[26-Oct-2018 12:24:17 asia/kolkata] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 779
+[26-Oct-2018 12:24:36 asia/kolkata] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 779
+[26-Oct-2018 12:25:30 asia/kolkata] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 779
+[26-Oct-2018 12:26:40 asia/kolkata] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 779
+[26-Oct-2018 12:39:12 asia/kolkata] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 213
+[26-Oct-2018 12:40:20 asia/kolkata] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 213
+[26-Oct-2018 12:58:15 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 351
+[27-Oct-2018 12:12:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'result' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/ofnse8xzlky9/public_html/develop/application/views/web/salon_catelist.php on line 24
+[27-Oct-2018 12:13:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'result' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home/ofnse8xzlky9/public_html/develop/application/views/web/salon_catelist.php on line 24
+[27-Oct-2018 12:44:06 asia/kolkata] PHP Parse error:  syntax error, unexpected '/' in /home/ofnse8xzlky9/public_html/develop/application/views/web/salon_salonlist.php on line 244
+[29-Oct-2018 15:22:55 asia/kolkata] PHP Parse error:  syntax error, unexpected '"' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 516
+[30-Oct-2018 15:11:19 Asia/Kolkata] PHP Fatal error:  Call to a member function getSponsors_data() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web_Slon.php on line 136
+[30-Oct-2018 15:11:29 Asia/Kolkata] PHP Fatal error:  Call to a member function getSponsors_data() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web_Slon.php on line 136
+[30-Oct-2018 15:13:34 asia/kolkata] PHP Fatal error:  Call to a member function getSponsors_data() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web_Slon.php on line 100
+[30-Oct-2018 15:14:27 asia/kolkata] PHP Fatal error:  Call to a member function getSponsors_data() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web_Slon.php on line 99
+[30-Oct-2018 15:48:24 asia/kolkata] PHP Fatal error:  Call to a member function getSponsors_data() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web_Spa.php on line 99
+[30-Oct-2018 16:17:10 Asia/Kolkata] PHP Fatal error:  Call to undefined method Resapi_model::GetSpaFeedbackData() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web_Spa.php on line 160
+[30-Oct-2018 17:00:29 asia/kolkata] PHP Fatal error:  Call to undefined method Saloanapi_model::PostReportData() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Salonapi/PostReport.php on line 36
+[30-Oct-2018 17:01:29 asia/kolkata] PHP Fatal error:  Call to undefined method Saloanapi_model::PostReportData() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Salonapi/PostReport.php on line 36
+[31-Oct-2018 11:52:28 asia/kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ofnse8xzlky9/public_html/develop/application/views/web/mybookinglist.php on line 182
+[31-Oct-2018 18:31:46 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/Favouriteapi_model.php on line 611
+[31-Oct-2018 18:32:14 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/Favouriteapi_model.php on line 611
+[01-Nov-2018 10:50:09 asia/kolkata] PHP Parse error:  syntax error, unexpected ',' in /home/ofnse8xzlky9/public_html/develop/application/controllers/UserDashboard.php on line 66
+[01-Nov-2018 12:30:26 asia/kolkata] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/ofnse8xzlky9/public_html/develop/application/controllers/UserDashboard.php on line 85
+[01-Nov-2018 12:30:28 asia/kolkata] PHP Parse error:  syntax error, unexpected ':', expecting ')' in /home/ofnse8xzlky9/public_html/develop/application/controllers/UserDashboard.php on line 85
+[01-Nov-2018 12:32:58 asia/kolkata] PHP Fatal error:  Call to a member function updatebooking_reschdule() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/UserDashboard.php on line 86
+[01-Nov-2018 12:33:04 asia/kolkata] PHP Fatal error:  Call to a member function updatebooking_reschdule() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/UserDashboard.php on line 86
+[01-Nov-2018 12:33:13 asia/kolkata] PHP Fatal error:  Call to a member function updatebooking_reschdule() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/UserDashboard.php on line 86
+[01-Nov-2018 12:33:56 asia/kolkata] PHP Fatal error:  Call to a member function updatebooking_reschdule() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/UserDashboard.php on line 86
+[01-Nov-2018 13:07:23 asia/kolkata] PHP Parse error:  syntax error, unexpected ':' in /home/ofnse8xzlky9/public_html/develop/application/controllers/UserDashboard.php on line 97
+[01-Nov-2018 14:07:46 asia/kolkata] PHP Fatal error:  Call to undefined method Favouriteapi_model::Confirm_rescheduleTime() in /home/ofnse8xzlky9/public_html/develop/application/controllers/UserDashboard.php on line 100
+[02-Nov-2018 11:37:25 asia/kolkata] PHP Fatal error:  Function name must be a string in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 30
+[02-Nov-2018 13:11:55 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 88
+[02-Nov-2018 13:12:46 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 88
+[02-Nov-2018 13:13:17 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 88
+[02-Nov-2018 13:14:19 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 89
+[02-Nov-2018 13:15:26 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 89
+[02-Nov-2018 13:15:58 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 89
+[02-Nov-2018 13:18:24 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 90
+[02-Nov-2018 13:19:34 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 90
+[02-Nov-2018 13:20:09 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 90
+[02-Nov-2018 13:21:15 asia/kolkata] PHP Parse error:  syntax error, unexpected 'vendor_name' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Trendingapi_model.php on line 90
+[03-Nov-2018 17:17:30 asia/kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ofnse8xzlky9/public_html/develop/application/views/web/clinic_list.php on line 281
+[06-Nov-2018 12:35:25 asia/kolkata] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Resapi_model.php on line 3092
+[06-Nov-2018 12:37:44 asia/kolkata] PHP Fatal error:  Call to undefined function group_concat() in /home/ofnse8xzlky9/public_html/develop/application/models/Resapi_model.php on line 3099
+[10-Nov-2018 10:21:28 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 246
+[10-Nov-2018 10:21:35 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 246
+[10-Nov-2018 10:21:54 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 246
+[10-Nov-2018 10:22:12 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 246
+[10-Nov-2018 10:22:31 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 246
+[10-Nov-2018 10:22:37 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 246
+[10-Nov-2018 10:22:56 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 246
+[10-Nov-2018 10:23:24 asia/kolkata] PHP Parse error:  syntax error, unexpected ';' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 246
+[10-Nov-2018 11:01:32 asia/kolkata] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Resapi_model.php on line 424
+[10-Nov-2018 11:01:39 asia/kolkata] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Resapi_model.php on line 424
+[10-Nov-2018 11:01:48 asia/kolkata] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/ofnse8xzlky9/public_html/develop/application/models/Resapi_model.php on line 424
+[10-Nov-2018 12:13:55 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 162
+[10-Nov-2018 16:05:52 asia/kolkata] PHP Parse error:  syntax error, unexpected '>' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2041
+[10-Nov-2018 16:05:55 asia/kolkata] PHP Parse error:  syntax error, unexpected '>' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2041
+[10-Nov-2018 16:05:59 asia/kolkata] PHP Parse error:  syntax error, unexpected '>' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2041
+[10-Nov-2018 16:06:41 asia/kolkata] PHP Parse error:  syntax error, unexpected '>' in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2041
+[10-Nov-2018 16:48:21 asia/kolkata] PHP Fatal error:  Call to undefined function phparraysort() in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2043
+[10-Nov-2018 16:49:06 asia/kolkata] PHP Fatal error:  Call to undefined function phparraysort() in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2043
+[10-Nov-2018 17:07:15 asia/kolkata] PHP Parse error:  syntax error, unexpected '$fields' (T_VARIABLE) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2157
+[10-Nov-2018 17:08:20 asia/kolkata] PHP Parse error:  syntax error, unexpected '$fields' (T_VARIABLE) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2157
+[10-Nov-2018 17:11:18 asia/kolkata] PHP Parse error:  syntax error, unexpected '$fields' (T_VARIABLE) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2157
+[10-Nov-2018 17:12:07 asia/kolkata] PHP Parse error:  syntax error, unexpected '$fields' (T_VARIABLE) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2157
+[10-Nov-2018 17:12:48 asia/kolkata] PHP Parse error:  syntax error, unexpected '$fields' (T_VARIABLE) in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2157
+[10-Nov-2018 17:42:30 asia/kolkata] PHP Fatal error:  Call to undefined method Doctorapi_model::phparraysort() in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2043
+[10-Nov-2018 17:42:43 asia/kolkata] PHP Fatal error:  Call to undefined function array_orderby() in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2043
+[10-Nov-2018 17:42:47 asia/kolkata] PHP Fatal error:  Call to undefined function array_orderby() in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2043
+[12-Nov-2018 14:56:40 asia/kolkata] PHP Fatal error:  Call to undefined function STR_TO_DATE() in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 249
+[12-Nov-2018 16:38:07 asia/kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 285
+[12-Nov-2018 17:18:00 asia/kolkata] PHP Parse error:  syntax error, unexpected ')', expecting ';' in /home/ofnse8xzlky9/public_html/develop/application/views/Admin/Doc_Doctorlists.php on line 91
+[12-Nov-2018 17:18:54 asia/kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/ofnse8xzlky9/public_html/develop/application/views/Admin/Doc_Doctorlists.php on line 91
+[12-Nov-2018 17:18:55 asia/kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/ofnse8xzlky9/public_html/develop/application/views/Admin/Doc_Doctorlists.php on line 91
+[12-Nov-2018 17:18:57 asia/kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/ofnse8xzlky9/public_html/develop/application/views/Admin/Doc_Doctorlists.php on line 91
+[12-Nov-2018 17:18:57 asia/kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/ofnse8xzlky9/public_html/develop/application/views/Admin/Doc_Doctorlists.php on line 91
+[12-Nov-2018 17:19:24 asia/kolkata] PHP Parse error:  syntax error, unexpected 'as' (T_AS), expecting ';' in /home/ofnse8xzlky9/public_html/develop/application/views/Admin/Doc_Doctorlists.php on line 91
+[16-Nov-2018 15:19:54 asia/kolkata] PHP Parse error:  syntax error, unexpected '*' in /home/ofnse8xzlky9/public_html/develop/application/views/Admin/Doc_AddDoctor.php on line 630
+[17-Nov-2018 11:40:07 Asia/Kolkata] PHP Fatal error:  Call to a member function AddProductsData() on null in /home/ofnse8xzlky9/public_html/develop/application/controllers/Restaurant.php on line 534
+[20-Nov-2018 12:12:43 asia/kolkata] PHP Fatal error:  Cannot redeclare Saloanapi_model::distance() in /home/ofnse8xzlky9/public_html/develop/application/models/Saloanapi_model.php on line 104
+[20-Nov-2018 12:23:51 asia/kolkata] PHP Parse error:  syntax error, unexpected '"' in /home/ofnse8xzlky9/public_html/develop/application/models/Saloanapi_model.php on line 130
+[27-Nov-2018 11:42:57 asia/kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ')' in /home/ofnse8xzlky9/public_html/develop/application/controllers/Doctor.php on line 1486
+[27-Nov-2018 11:44:32 asia/kolkata] PHP Parse error:  syntax error, unexpected '"category_name"' (T_CONSTANT_ENCAPSED_STRING), expecting '(' in /home/ofnse8xzlky9/public_html/develop/application/controllers/Doctor.php on line 1486
+[28-Nov-2018 10:26:31 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web.php on line 78
+[28-Nov-2018 10:27:26 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web.php on line 78
+[28-Nov-2018 10:28:24 asia/kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting ',' or ';' in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web.php on line 74
+[28-Nov-2018 10:28:45 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web.php on line 73
+[28-Nov-2018 10:29:54 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web.php on line 73
+[28-Nov-2018 10:31:33 Asia/Kolkata] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ofnse8xzlky9/public_html/develop/application/controllers/Web.php on line 73
+[28-Nov-2018 12:30:00 asia/kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_list1.php on line 383
+[03-Dec-2018 16:18:37 Asia/Kolkata] PHP Fatal error:  Call to undefined method Doctorapi_model::send_private_notification() in /home/ofnse8xzlky9/public_html/develop/application/models/Doctorapi_model.php on line 2782
+[26-Dec-2018 13:08:08 asia/kolkata] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/ofnse8xzlky9/public_html/develop/application/controllers/Restaurant.php on line 559
+[31-Dec-2018 15:22:38 asia/kolkata] PHP Parse error:  syntax error, unexpected '$title' (T_VARIABLE), expecting ')' in /home/ofnse8xzlky9/public_html/develop/application/controllers/Restaurant.php on line 256
+[01-Jan-2019 16:23:41 asia/kolkata] PHP Fatal error:  Cannot redeclare VendorBookingAPI_model::logout() in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 5063
+[01-Jan-2019 16:23:54 asia/kolkata] PHP Fatal error:  Cannot redeclare VendorBookingAPI_model::logout() in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 5063
+[01-Jan-2019 16:24:05 asia/kolkata] PHP Fatal error:  Cannot redeclare VendorBookingAPI_model::logout() in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 5063
+[01-Jan-2019 16:24:36 asia/kolkata] PHP Fatal error:  Cannot redeclare VendorBookingAPI_model::logout() in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 5063
+[01-Jan-2019 16:29:22 asia/kolkata] PHP Fatal error:  Cannot redeclare VendorBookingAPI_model::logout() in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 5063
+[09-Jan-2019 15:10:03 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ofnse8xzlky9/public_html/develop/application/views/web/clinic_viewinfo.php on line 1737
+[09-Jan-2019 16:08:25 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ofnse8xzlky9/public_html/develop/application/views/web/clinic_viewinfo.php on line 1794
+[09-Jan-2019 17:20:35 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ofnse8xzlky9/public_html/develop/application/views/web/catelist.php on line 69
+[21-Jan-2019 18:20:56 Asia/Kolkata] PHP Parse error:  syntax error, unexpected ''https://www.breakingnews.ie/r' (T_CONSTANT_ENCAPSED_STRING) in /home/ofnse8xzlky9/public_html/develop/application/views/web/catelist.php on line 80
+[23-Jan-2019 12:28:12 asia/kolkata] PHP Fatal error:  Cannot redeclare Saloansmodel::image_unlink() in /home/ofnse8xzlky9/public_html/develop/application/models/Saloansmodel.php on line 441
+[24-Jan-2019 11:27:39 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/views/web/clinic_viewinfo.php on line 376
+[05-Feb-2019 10:51:35 asia/kolkata] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/ofnse8xzlky9/public_html/develop/application/controllers/User.php on line 54
+[12-Feb-2019 18:06:24 Asia/Kolkata] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ofnse8xzlky9/public_html/develop/application/views/web/clinic_viewinfo.php on line 542
+[13-Feb-2019 12:32:26 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ofnse8xzlky9/public_html/develop/application/views/web/clinic_viewinfo.php on line 1797
+[13-Feb-2019 12:35:31 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ofnse8xzlky9/public_html/develop/application/views/web/clinic_viewinfo.php on line 710
+[13-Feb-2019 13:58:23 Asia/Kolkata] PHP Parse error:  syntax error, unexpected end of file in /home/ofnse8xzlky9/public_html/develop/application/views/web/clinic_viewinfo.php on line 1846
+[25-Feb-2019 13:15:19 asia/kolkata] PHP Parse error:  syntax error, unexpected '$dlist' (T_VARIABLE) in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_list1.php on line 373
+[05-Mar-2019 12:08:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_viewres.php on line 370
+[05-Mar-2019 14:35:29 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '}' in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_viewres.php on line 1350
+[06-Mar-2019 16:36:19 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_viewres.php on line 814
+[07-Mar-2019 11:59:57 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_viewres.php on line 966
+[07-Mar-2019 12:02:14 Asia/Kolkata] PHP Parse error:  syntax error, unexpected '<' in /home/ofnse8xzlky9/public_html/develop/application/views/web/res_viewres.php on line 967
+[25-Apr-2019 16:54:08 asia/kolkata] PHP Fatal error:  Call to undefined method Saloanapi_model::getSalonSponsors() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Adsapi/GetSalonAds.php on line 29
+[25-Apr-2019 16:56:56 asia/kolkata] PHP Fatal error:  Call to undefined method Saloanapi_model::getSalonSponsors() in /home/ofnse8xzlky9/public_html/develop/application/controllers/Adsapi/GetSalonAds.php on line 29
+[27-Apr-2019 12:56:44 asia/kolkata] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home/ofnse8xzlky9/public_html/develop/application/models/VendorBookingAPI_model.php on line 1974
+[03-Jun-2019 14:43:42 asia/kolkata] PHP Warning:  include(/home/o63s4fil00t4/public_html/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/o63s4fil00t4/public_html/system/core/Exceptions.php on line 268
+[03-Jun-2019 14:43:42 asia/kolkata] PHP Warning:  include(): Failed opening '/home/o63s4fil00t4/public_html/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o63s4fil00t4/public_html/system/core/Exceptions.php on line 268
+[03-Jun-2019 14:43:42 asia/kolkata] PHP Warning:  include(/home/o63s4fil00t4/public_html/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/o63s4fil00t4/public_html/system/core/Exceptions.php on line 268
+[03-Jun-2019 14:43:42 asia/kolkata] PHP Warning:  include(): Failed opening '/home/o63s4fil00t4/public_html/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o63s4fil00t4/public_html/system/core/Exceptions.php on line 268
+[03-Jun-2019 14:43:42 asia/kolkata] PHP Warning:  include(/home/o63s4fil00t4/public_html/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/o63s4fil00t4/public_html/system/core/Exceptions.php on line 268
+[03-Jun-2019 14:43:42 asia/kolkata] PHP Warning:  include(): Failed opening '/home/o63s4fil00t4/public_html/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o63s4fil00t4/public_html/system/core/Exceptions.php on line 268
+[03-Jun-2019 14:43:42 asia/kolkata] PHP Warning:  include(/home/o63s4fil00t4/public_html/application//errors/html/error_php.php): failed to open stream: No such file or directory in /home/o63s4fil00t4/public_html/system/core/Exceptions.php on line 268
+[03-Jun-2019 14:43:42 asia/kolkata] PHP Warning:  include(): Failed opening '/home/o63s4fil00t4/public_html/application//errors/html/error_php.php' for inclusion (include_path='.:/opt/alt/php72/usr/share/pear') in /home/o63s4fil00t4/public_html/system/core/Exceptions.php on line 268
+[18-Jun-2019 12:11:41 asia/kolkata] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/o63s4fil00t4/public_html/application/controllers/Web_doctor.php on line 63
+[18-Jun-2019 13:38:54 asia/kolkata] PHP Parse error:  syntax error, unexpected '>' in /home/o63s4fil00t4/public_html/application/controllers/Web_doctor.php on line 255
